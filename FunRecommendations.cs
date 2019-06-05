@@ -57,7 +57,7 @@ namespace FunRecommendations
                 case 4:
                     return "good food";
                 default:
-                    return "Invalid Input";
+                    return null;
             }
         }
 
@@ -80,9 +80,7 @@ namespace FunRecommendations
                     computerChoice = "to Taco Bell";
                     break;
                 default:
-                    Console.WriteLine("Invalid user input.");
                     return null;
-
             }
             return computerChoice;
         }
@@ -113,7 +111,7 @@ namespace FunRecommendations
         public override string ToString()
         {
             return $"Okay! If you are interested in {UserMood()}, you should go {Activity()} and should travel in {Transportation(numGuests)}";
-              
+
         }
     }
 }

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6435AC9A-C33E-4271-AF99-E428C9180DED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FunRecommendations.cs">
+    <Files>
+      <File FileName="FunRecommendations.cs" Line="28" Column="17" />
+      <File FileName="FunTest.cs" Line="27" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FunRecommendations" expanded="True">
+            <Node name="FunRecommendations" expanded="True">
+              <Node name="FunRecommendations.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FunRecommendations PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -9,3 +9,14 @@
 /Users/savanahisabella/Projects/FunRecommendations/FunRecommendations/obj/Debug/netcoreapp2.1/FunRecommendations.AssemblyInfo.cs
 /Users/savanahisabella/Projects/FunRecommendations/FunRecommendations/obj/Debug/netcoreapp2.1/FunRecommendations.dll
 /Users/savanahisabella/Projects/FunRecommendations/FunRecommendations/obj/Debug/netcoreapp2.1/FunRecommendations.pdb
+/Users/savanahisabella/Documents/FunRecommendations/FunRecommendations/bin/Debug/netcoreapp2.1/FunRecommendations.deps.json
+/Users/savanahisabella/Documents/FunRecommendations/FunRecommendations/bin/Debug/netcoreapp2.1/FunRecommendations.runtimeconfig.json
+/Users/savanahisabella/Documents/FunRecommendations/FunRecommendations/bin/Debug/netcoreapp2.1/FunRecommendations.runtimeconfig.dev.json
+/Users/savanahisabella/Documents/FunRecommendations/FunRecommendations/bin/Debug/netcoreapp2.1/FunRecommendations.dll
+/Users/savanahisabella/Documents/FunRecommendations/FunRecommendations/bin/Debug/netcoreapp2.1/FunRecommendations.pdb
+/Users/savanahisabella/Documents/FunRecommendations/FunRecommendations/obj/Debug/netcoreapp2.1/FunRecommendations.csprojAssemblyReference.cache
+/Users/savanahisabella/Documents/FunRecommendations/FunRecommendations/obj/Debug/netcoreapp2.1/FunRecommendations.csproj.CoreCompileInputs.cache
+/Users/savanahisabella/Documents/FunRecommendations/FunRecommendations/obj/Debug/netcoreapp2.1/FunRecommendations.AssemblyInfoInputs.cache
+/Users/savanahisabella/Documents/FunRecommendations/FunRecommendations/obj/Debug/netcoreapp2.1/FunRecommendations.AssemblyInfo.cs
+/Users/savanahisabella/Documents/FunRecommendations/FunRecommendations/obj/Debug/netcoreapp2.1/FunRecommendations.dll
+/Users/savanahisabella/Documents/FunRecommendations/FunRecommendations/obj/Debug/netcoreapp2.1/FunRecommendations.pdb
