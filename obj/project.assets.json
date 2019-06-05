@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/savanahisabella/Projects/FunRecommendations/FunRecommendations/FunRecommendations.csproj",
+      "projectUniqueName": "/Users/savanahisabella/Documents/FunRecommendations/FunRecommendations/FunRecommendations.csproj",
       "projectName": "FunRecommendations",
-      "projectPath": "/Users/savanahisabella/Projects/FunRecommendations/FunRecommendations/FunRecommendations.csproj",
+      "projectPath": "/Users/savanahisabella/Documents/FunRecommendations/FunRecommendations/FunRecommendations.csproj",
       "packagesPath": "/Users/savanahisabella/.nuget/packages/",
-      "outputPath": "/Users/savanahisabella/Projects/FunRecommendations/FunRecommendations/obj/",
+      "outputPath": "/Users/savanahisabella/Documents/FunRecommendations/FunRecommendations/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
